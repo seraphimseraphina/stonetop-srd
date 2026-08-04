@@ -213,7 +213,7 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - How long ago was this? Decades? Years? Months? Days?
 
 * * *
-The Blessed
+**The Blessed**
 * * *
 
 **Initiate**
@@ -234,6 +234,8 @@ The Blessed
 - When did you first make yourself known to the village? How did that happen?
 - Do you live in town? On the outskirts? In the Wood? How often do you visit?
 
+* * *
+
 **Vessel**
 - How did you gain or become aware of your power? When did this happen?
 - How has your life changed since gaining your powers?
@@ -242,7 +244,7 @@ The Blessed
 servant of Danu?
 
 * * *
-The Fox
+**The Fox**
 * * *
 
 **The Natural**
@@ -251,6 +253,8 @@ The Fox
 - What lies get whispered behind your back?
 - What secret do you know? About whom?
 
+* * *
+
 **A Life of Crime**
 - What criminal enterprise were you a part of? Who ran the show?
 - How did you get into that life?
@@ -258,10 +262,72 @@ The Fox
 - Who or what did you leave behind?
 - Who here knows about your past?
 
+* * *
+
 **The Prodigal Returned**
 - Why did you leave? How long ago?
 - Where did you go first? Why?
 - Where were you the longest?
 - What brought you home? When?
 - What has changed most while you were away?
+
+* * *
+**The Heavy**
+* * *
+
+**Sheriff**
+- Is this a formal position, or just something everyone agrees on?
+- How long have you acted as sheriff?
+- Who, if anyone, did this job before you?
+- Just where exactly did you learn how to fight so well?
+
+* * *
+
+**Blood-soaked Past**
+- How did you earn your grim reputation?
+- What did people used to call you, back in your dark bloody days?
+- What prompted you to put all that behind you? When did that happen?
+- Who here knows about your past?
+- Who have you, personally, lost to violence?
+
+* * *
+
+**Storm-marked**
+- When did the marks manifest? How?
+- Are they a symbol of your strength, speed, and courage? Or the source?
+- Are the marks a blessing? Or a curse?
+- How do folks in Stonetop generally treat you?
+
+* * *
+**The Judge**
+* * *
+
+**Legacy**
+- How long have you been the Judge? How long before that were you the apprentice?
+- Who was the Judge before you? Are they still alive?
+- How were you chosen as the prior Judge’s apprentice?
+- What is the symbol of your authority (hammer, shield, or helm)? Where does the Chronicle say it came from?
+
+* * *
+
+**Missionary**
+- Where are you from, originally? Where did you do your apprenticeship?
+- How were you chosen as an apprentice?
+- How long were you an apprentice? How long have you been a full Judge?
+- Of the Judges in the other steadings (Devin, Haeris, etc.)...  
+...which was your mentor?  
+...which was a fellow apprentice?  
+...which is reliable but inflexible?  
+...which is clever but ambitious?
+...which lacks the necessary mettle?
+- When did you arrive in Stonetop? How were you received?
+- Was there a prior Judge in Stonetop, or are you the first?
+- What is the symbol of your authority (hammer, shield, or helm)? Was it bestowed by your order, or did you find it?
+
+* * *
+
+**Prophet**
+- How did Aratis call you to her service?
+- What is the symbol of your authority (hammer, shield, or helm)? Where and how did you acquire it?
+- How did you establish yourself as Stonetop’s Judge?
 [back to index](#index)
