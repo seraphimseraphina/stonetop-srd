@@ -19,7 +19,7 @@ nav_order: 2
 
 ## Get ready
 
-Make sure that everyone is on board with the concept of _Stonetop_: that they’ll play the heroes of a small, isolated village. If someone wants to play a rootless, treasurehunting mercenary, they’re unlikely to enjoy themselves, and that will drag down the game for everyone.
+Make sure that everyone is on board with the concept of _Stonetop_: that they’ll play the heroes of a small, isolated village. If someone wants to play a rootless, treasure hunting mercenary, they’re unlikely to enjoy themselves, and that will drag down the game for everyone.
 
 Prior to the first session, ask your players to read the **Setting Overview** handout, at least the first page. Encourage them to think about any content that they want to exclude, veil, or handle in a particular way (see Discuss tone  and content (link tk)). Consider posting a shared document online where you and your players can record these things anonymously.
 
