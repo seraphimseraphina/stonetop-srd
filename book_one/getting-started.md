@@ -133,7 +133,9 @@ Discuss, negotiate, and compromise as needed, trying to find common ground that 
 > Likewise, if anyone realizes mid-session that some particular content is bothering them, they can call a time out. Identify the content that needs to be handled differently (clarifying as needed, but not asking for reasons). Update the steading playbook. Fix the fiction. Check in with the player and make sure they’re okay. When everyone’s ready, continue.
 > If you or a player realize that you’re uncomfortable with content that came up during a previous session, discuss it before the next session. Update the steading playbook and fix the fiction as needed.
 > “Fix the fiction” means: decide as a group what happened _instead_. This isn’t meant to undo the consequences of players’ rolls or decisions, but rather to bring the fiction back in line with the comfort level of the group.
-> If a player consistently ignores the group’s content guidelines, talk to them about it between sessions. If they persist, stop playing with them. 
+> If a player consistently ignores the group’s content guidelines, talk to them about it between sessions. If they persist, stop playing with them.
+
+[back to index](#index)
 
 ## Create characters
 
@@ -169,5 +171,68 @@ _Area_, _awkward_, _crude_, _cumbersome_, _dangerous_, _forceful_, _messy_, _thr
 - **Should I fill in the back page, too?** Yes. They should complete the left column of their playbook’s back page, making choices or answering questions as they wish, within the content guidelines established by the group.
 
 If you’re using an adventure starter (see Adventure starters (link tk)), you might have specific instructions for certain playbooks.
+
+[back to index](#index)
+
+## Intro the PCs
+
+Everyone should stop and wait at the **Introductions** section of their playbooks, which comprises the second column on the back page. They can read it over and think about answers to the questions, but shouldn’t make any hard decisions until everyone’s ready to do so as a group.
+
+When all the players are at that point, set expectations: they’ll take turns introducing themselves, adding details, asking and answering questions about each other and the setting as it develops through conversation.
+
+While this happens, encourage them to... 
+
+- **Pay attention:** take interest in what everyone else says.
+- **Ask and answer questions:** if they want to know more about something that comes up, ask. Answer questions asked of you honestly.
+- **Play off of each other:** incorporate details mentioned by others into your own contributions.
+
+As GM, you’ll ask a lot of questions, too. See below for suggestions. 
+
+Whenever someone wants or needs to add a new NPC to the mix, suggest that they pick one of the unused names from the front of their playbook. Additional names are available in the steading playbook. Also give each NPC an occupation and/or trait (the steading playbook has a list of suggestions, see page 163).
+
+Take notes! Add NPCs to the steading playbook as you go, or take more freeform notes for now and update the Residents of Stonetop and Notable Neighbors later.
+
+{: .note-title }
+> Adventure starters
+>
+> If you want to start an adventure right away, during the first session, then download an adventure starter from www.lampblackandbrimstone.com.
+> Likewise, if anyone realizes mid-session that some particular content is bothering them, they can call a time out. Identify the content that needs to be handled differently (clarifying as needed, but not asking for reasons). Update the steading playbook. Fix the fiction. Check in with the player and make sure they’re okay. When everyone’s ready, continue.
+> Each starter presents abbreviated steps for character creation and introductions, and then launches into a specific adventure. The results won’t be as unique or fleshed out as what you get with the standard process, but you’ll get to the action more quickly!
+
+### 1. Vital info
+
+Choose someone to go first. They’ll introduce themselves by name, pronouns, background (and playbook, if unclear), origin, and appearance.
+
+Ask questions based on their playbook and background. Use the following questions as a guide, but of course ask whatever your curiosity demands. Encourage the other players to do so as well: “Anyone else curious about anything that was just mentioned?”
+
+It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’t want to decide just yet, that’s fine. Make a note and come back to it later—or just leave it as an open question to be answered in play.
+
+**If their origin is someplace other than Stonetop**, ask them the following (unless the answer is obvious):
+- What brought you (or your family) to Stonetop? Why here, specifically?
+- Who else, if anyone, came with you?
+- How long ago was this? Decades? Years? Months? Days?
+
+The Blessed
+
+**Initiate**
+- Who are your fellow initiates?
+- How long ago were you initiated?
+- How were you chosen? By lineage? By trial? By sign or omen?
+- Did anyone else seek your role?
+- What did the initiation rites entail?
+- Were they public or secret? Festive or somber?
+- What do your duties as an initiate entail?
+**Raised by Wolves**
+- Were you one of the Forest Folk? Stolen, lost, or abandoned? Something else?
+- Did you grow up in the Great Wood? On the Flats? Somewhere else?
+- What drew you to Stonetop? What ties you to the village?
+- When did you first make yourself known to the village? How did that happen?
+- Do you live in town? On the outskirts? In the Wood? How often do you visit?
+**Vessel**
+- How did you gain or become aware of your power? When did this happen?
+- How has your life changed since gaining your powers?
+- Do you have a mentor? Or are you self-taught, going by instinct and insight?
+- Do you hold some formal position as a
+servant of Danu?
 
 [back to index](#index)
