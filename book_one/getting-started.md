@@ -126,6 +126,21 @@ Finally, ask if anyone has **special requests** regarding specific content. Is t
 
 Discuss, negotiate, and compromise as needed, trying to find common ground that works for everyone, and note these special requests in the steading playbook.
 
+{: .note-title }
+> Mistakes will happen. When excluded content comes up in play, or veiled content gets included on-screen, whoever notices should call “time out” and point out what happened.  Don’t make a big deal about it; acknowledge the mistake, fix the fiction if necessary, and move on.
+> Likewise, if anyone realizes mid-session that some particular content is bothering them, they can call a time out. Identify the content that needs to be handled differently (clarifying as needed, but not asking for reasons). Update the steading playbook. Fix the fiction. Check in with the player and make sure they’re okay. When everyone’s ready, continue.
+> If you or a player realize that you’re uncomfortable with content that came up during a previous session, discuss it before the next session. Update the steading playbook and fix the fiction as needed.
+> “Fix the fiction” means: decide as a group what happened _instead_. This isn’t meant to undo the consequences of players’ rolls or decisions, but rather to bring the fiction back in line with the comfort level of the group.
+> If a player consistently ignores the group’s content guidelines, talk to them about it between sessions. If they persist, stop playing with them. 
 
+## Create characters
+
+After you review the setting, set expectations, and establish content guidelines, it’s time to make characters! Do this together, during the first session.
+
+First, have everyone pick a character playbook. Refer to the “Setting Overview” handout for a quick overview of each, and discuss who would like to play which one. This will be much quicker and easier than reviewing the entirety of each playbook. If anyone is unsure, have them read the front page of the playbooks they are considering.
+
+As each person makes their choice, hand them the appropriate playbook, along with any playbook-specific inserts. Everyone gets an Inventory insert as well. If someone chooses the Seeker, hand them the major arcana cards and tell them they’ll need to choose one before play proper begins, as indicated by their playbook.
+
+Ask each player to work through their playbook from front to back, making choices and filling in blanks as needed. Answer questions as they arise. Common questions at this stage include:
 
 [back to index](#index)
