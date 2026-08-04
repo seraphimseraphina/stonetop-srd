@@ -49,7 +49,7 @@ Everyone should buy in to the game’s core premise: PCs are the heroes of an is
 
 If you want to play rootless wanderers in search of fortune and glory, this isn’t the game for you. Maybe try _Freebooters on the Frontier_ instead. 
 
-Stonetop comes with a **setting** (see [**The setting**](../stonetop-srd/book_one/welcome-to-stonetop.html#the-setting)). There are plenty of blanks for you and your group to fill in during play, but if you want to change the setting’s core assumptions, you’ll need to do a fair bit of work.
+Stonetop comes with a **setting** (see [**The setting**](../book_one/welcome-to-stonetop.html#the-setting)). There are plenty of blanks for you and your group to fill in during play, but if you want to change the setting’s core assumptions, you’ll need to do a fair bit of work.
 
 ### Commitment
 
