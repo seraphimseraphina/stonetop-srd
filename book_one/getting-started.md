@@ -221,13 +221,13 @@ The Blessed
 - Did anyone else seek your role?
 - What did the initiation rites entail?
 - Were they public or secret? Festive or somber?
-- What do your duties as an initiate entail?
+- What do your duties as an initiate entail?  
 **Raised by Wolves**
 - Were you one of the Forest Folk? Stolen, lost, or abandoned? Something else?
 - Did you grow up in the Great Wood? On the Flats? Somewhere else?
 - What drew you to Stonetop? What ties you to the village?
 - When did you first make yourself known to the village? How did that happen?
-- Do you live in town? On the outskirts? In the Wood? How often do you visit?
+- Do you live in town? On the outskirts? In the Wood? How often do you visit?  
 **Vessel**
 - How did you gain or become aware of your power? When did this happen?
 - How has your life changed since gaining your powers?
