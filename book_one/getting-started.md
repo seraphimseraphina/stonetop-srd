@@ -213,7 +213,7 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - How long ago was this? Decades? Years? Months? Days?
 
 * * *
-**The Blessed**
+### **The Blessed**
 * * *
 
 **Initiate**
@@ -246,7 +246,7 @@ servant of Danu?
   
   
 * * *
-**The Fox**
+### **The Fox**
 * * *
 
 **The Natural**
@@ -276,7 +276,7 @@ servant of Danu?
   
   
 * * *
-**The Heavy**
+### **The Heavy**
 * * *
 
 **Sheriff**
@@ -305,7 +305,7 @@ servant of Danu?
   
   
 * * *
-**The Judge**
+### **The Judge**
 * * *
 
 **Legacy**
