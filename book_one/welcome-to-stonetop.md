@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Welcome to Stonetop
+{: .no_toc }
 
 Stonetop is a hearth fantasy role-playing game, set in an iron age that never was. It’s meant for 3-5 people to play over multiple sessions. Expect each session to last 3-5 hours.
 
@@ -24,6 +25,15 @@ Over time—in both the game and in real life—your characters and the village 
 Welcome to Stonetop, friend.
 
 Welcome home.
+
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Expectations
 
@@ -90,6 +100,8 @@ GMs, see Discuss tone and content (link tk) for guidance on facilitating convers
 To play this game face-to-face, you’ll need printed materials (playbooks, inserts, and reference sheets), plus pencils to write with. If you play online, you’ll need digital versions of the same.
 
 You’ll also need dice. _Stonetop_ uses the many-sided dice common to roleplaying games. As a player, you’ll need at least 3d6 and ideally one each of a d4, d8, d10, and d12. The GM doesn’t generally roll dice during play, but they’ll want a d6 and a d12 for rolling on the inspirational tables in _Book II: The Wider World and Other Wonders_.
+
+[back to index](#index)
 
 ## The setting
 
@@ -176,3 +188,5 @@ Because here, in the real world, our communities are often fractured, broken, di
 Because Stonetop itself is a good place, a place worth fighting for.
 
 And if you don’t fight for it, who will?
+
+[back to index](#index)
