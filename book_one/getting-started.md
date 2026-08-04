@@ -155,10 +155,13 @@ Ask each player to work through their playbook from front to back, making choice
 Items without a ◇ or ◇◇ are either _small_ (they don’t count against your load, but you typically carry only ~4 of them on each expedition) or something that you don’t carry on your person. It should be obvious which.
 - **Can I have a different special possession?** Sure, but keep it setting-appropriate and on par with the other options. Check other playbooks for inspiration.
 - **Do I get any (other) weapons or gear?** Special possessions are the unique or interesting things that they own or have access to. Every character has access to common weapons, armor, and gear included on the Inventory insert. They shouldn’t define their Inventory at the start of play. They’ll do that when they first Outfit for an expedition.
-- **How much damage do weapons do?** Damage is based on the playbook, not on the weapon. The Heavy deals 1d10 damage and the Lightbearer deals 1d4, regardless of whether they use a dagger or a maul. Some weapons of war deal “+1 damage,” but that’s an exception.  
+- **How much damage do weapons do?** Damage is based on the playbook, not on the weapon. The Heavy deals 1d10 damage and the Lightbearer deals 1d4, regardless of whether they use a dagger or a maul. Some weapons of war deal “+1 damage,” but that’s an exception.
+  
 No, they don’t add their STR or DEX to their damage rolls.
-- **What do the various tags mean?** _Hand_, _close_, _reach_, _near_, and _far_ describe a weapon or light source’s useful range. From closest to furthest, the ranges are _hand_ < _close_ < _reach_ < _near_ < _far_.  
+- **What do the various tags mean?** _Hand_, _close_, _reach_, _near_, and _far_ describe a weapon or light source’s useful range. From closest to furthest, the ranges are _hand_ < _close_ < _reach_ < _near_ < _far_.
+  
 “Piercing” weapons ignore some of the target’s armor. A weapon with “_x_ piercing” has a piercing value equal to Stonetop’s Prosperity (+0 by default).  
+  
 _Area_, _awkward_, _crude_, _cumbersome_, _dangerous_, _forceful_, _messy_, _thrown_, _warm_, etc. are fictional cues. They have no numeric effects, but they color the fiction—which is important!
 - **What does “roll + [STAT]” mean?** They’ll roll 2d6 and add the modifier they’ve assigned to that stat. If the total is a 10+, yay! If the total is 7-9, okay. If the total is 6-, uh-oh.
 - **What happens if I roll a 6 or less?** If a move doesn’t specify what happens on a 6-, then it means that the player marks XP and something bad happens. You (the GM) decide exactly what.
