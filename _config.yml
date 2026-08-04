@@ -6,3 +6,8 @@ url: https://seraphimseraphina.github.io/stonetop-srd/
 
 aux_links:
   Home: https://seraphimseraphina.github.io/stonetop-srd/
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
