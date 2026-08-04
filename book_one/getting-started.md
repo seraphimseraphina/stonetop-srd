@@ -145,4 +145,12 @@ As each person makes their choice, hand them the appropriate playbook, along wit
 
 Ask each player to work through their playbook from front to back, making choices and filling in blanks as needed. Answer questions as they arise. Common questions at this stage include:
 
+- **My background says “go mark this now.” What does that mean?** If they take that background, they should open their playbook and mark that particular move, option, or special possession now (so that they don’t forget to do so later).
+- **What does my instinct do?** It describes how their character tends to behave. Each session, they get XP if they demonstrate their instinct in play, or struggle against it.
+- **Do I have to pick from these appearances?** No, they can make up something else. The appearances are there to spark their creativity.
+- **Do I have to pick one of these names?** No, but the name lists are meant to give the world a cohesive feel. The steading playbook includes extra names if they want to pick something else.
+- **Do I have to live in Stonetop?** Yes, at least for now. There are only two exceptions: a Blessed with the Raised by Wolves background and a Lightbearer with the Itinerant Mystic background. Even they should have close ties to the village, and be there often.
+- **How does “armor” work?** Their armor value is (usually) based on their current gear. Armor reduces any damage they take. Multiple items with “_x_ armor” don’t stack with each other, but items that grant “+_x_ armor” do stack (with each other, and with “_x_ armor” items). 0-1 armor is typical. 2 armor is tough. 3 armor is the best a starting character can get.
+- **What does ◇ or ◇◇ mean?** The item counts against their load. If they bring it on an expedition, they’ll mark that many ◇ on their Inventory insert. They can mark up to 3◈ with a light load, up to 6◈ with a normal load, and up to 9◈ with a heavy load. 
+
 [back to index](#index)
