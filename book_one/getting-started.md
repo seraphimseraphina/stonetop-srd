@@ -324,7 +324,7 @@ servant of Danu?
 ...which was your mentor?  
 ...which was a fellow apprentice?  
 ...which is reliable but inflexible?  
-...which is clever but ambitious?
+...which is clever but ambitious?  
 ...which lacks the necessary mettle?
 - When did you arrive in Stonetop? How were you received?
 - Was there a prior Judge in Stonetop, or are you the first?
