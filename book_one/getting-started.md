@@ -127,6 +127,8 @@ Finally, ask if anyone has **special requests** regarding specific content. Is t
 Discuss, negotiate, and compromise as needed, trying to find common ground that works for everyone, and note these special requests in the steading playbook.
 
 {: .note-title }
+> Making corrections
+>
 > Mistakes will happen. When excluded content comes up in play, or veiled content gets included on-screen, whoever notices should call “time out” and point out what happened.  Don’t make a big deal about it; acknowledge the mistake, fix the fiction if necessary, and move on.
 > Likewise, if anyone realizes mid-session that some particular content is bothering them, they can call a time out. Identify the content that needs to be handled differently (clarifying as needed, but not asking for reasons). Update the steading playbook. Fix the fiction. Check in with the player and make sure they’re okay. When everyone’s ready, continue.
 > If you or a player realize that you’re uncomfortable with content that came up during a previous session, discuss it before the next session. Update the steading playbook and fix the fiction as needed.
