@@ -243,6 +243,8 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - Do you hold some formal position as a
 servant of Danu?
 
+
+
 * * *
 **The Fox**
 * * *
@@ -271,6 +273,8 @@ servant of Danu?
 - What brought you home? When?
 - What has changed most while you were away?
 
+
+
 * * *
 **The Heavy**
 * * *
@@ -297,6 +301,8 @@ servant of Danu?
 - Are they a symbol of your strength, speed, and courage? Or the source?
 - Are the marks a blessing? Or a curse?
 - How do folks in Stonetop generally treat you?
+
+
 
 * * *
 **The Judge**
