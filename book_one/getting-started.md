@@ -42,12 +42,12 @@ Print the PDFs for these documents double-sided (flipped on the short edge).
 
 After you’ve printed everything:
 
-1) Staple the Stonetop steading playbook, the Moves & Gear handout, and the Setting Overview, each at the top left.
-2) Fold the character playbooks into  individual booklets.
-3) Cut out the “inserts” and slip the playbook-specific inserts into their appropriate playbooks.
-4) Keep the Inventory inserts stacked and handy. Set aside the Revenant,  Ghost, and Thrall inserts.
-5) Assemble the GM playbook. Stack the sheets so that “Nearby Threats” is face- up. Fold all the pages over to make a  booklet. Staple it along the spine.
-6) If you have time, cut out all the arcana cards, major and minor.
+1. Staple the Stonetop steading playbook, the Moves & Gear handout, and the Setting Overview, each at the top left.
+2. Fold the character playbooks into  individual booklets.
+3. Cut out the “inserts” and slip the playbook-specific inserts into their appropriate playbooks.
+4. Keep the Inventory inserts stacked and handy. Set aside the Revenant,  Ghost, and Thrall inserts.
+5. Assemble the GM playbook. Stack the sheets so that “Nearby Threats” is face- up. Fold all the pages over to make a  booklet. Staple it along the spine.
+6. If you have time, cut out all the arcana cards, major and minor.
 
 There’s nothing secret in any of these documents, so if any of your players are around ask them to help with the folding, cutting, and stapling!
 
