@@ -212,7 +212,7 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - Who else, if anyone, came with you?
 - How long ago was this? Decades? Years? Months? Days?
 
-#### The Blessed
+| The Blessed |
 
 **Initiate**
 - Who are your fellow initiates?
@@ -237,7 +237,7 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - Do you hold some formal position as a
 servant of Danu?
 
-#### The Fox
+| The Fox |
 
 **The Natural**
 - What mundane craft, trade, or skill do you excel at, better than anyone?
