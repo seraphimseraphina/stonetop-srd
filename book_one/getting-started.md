@@ -151,6 +151,20 @@ Ask each player to work through their playbook from front to back, making choice
 - **Do I have to pick one of these names?** No, but the name lists are meant to give the world a cohesive feel. The steading playbook includes extra names if they want to pick something else.
 - **Do I have to live in Stonetop?** Yes, at least for now. There are only two exceptions: a Blessed with the Raised by Wolves background and a Lightbearer with the Itinerant Mystic background. Even they should have close ties to the village, and be there often.
 - **How does “armor” work?** Their armor value is (usually) based on their current gear. Armor reduces any damage they take. Multiple items with “_x_ armor” don’t stack with each other, but items that grant “+_x_ armor” do stack (with each other, and with “_x_ armor” items). 0-1 armor is typical. 2 armor is tough. 3 armor is the best a starting character can get.
-- **What does ◇ or ◇◇ mean?** The item counts against their load. If they bring it on an expedition, they’ll mark that many ◇ on their Inventory insert. They can mark up to 3◈ with a light load, up to 6◈ with a normal load, and up to 9◈ with a heavy load. 
+- **What does ◇ or ◇◇ mean?** The item counts against their load. If they bring it on an expedition, they’ll mark that many ◇ on their Inventory insert. They can mark up to 3◈ with a light load, up to 6◈ with a normal load, and up to 9◈ with a heavy load.  
+Items without a ◇ or ◇◇ are either _small_ (they don’t count against your load, but you typically carry only ~4 of them on each expedition) or something that you don’t carry on your person. It should be obvious which.
+- **Can I have a different special possession?** Sure, but keep it setting-appropriate and on par with the other options. Check other playbooks for inspiration.
+- **Do I get any (other) weapons or gear?** Special possessions are the unique or interesting things that they own or have access to. Every character has access to common weapons, armor, and gear included on the Inventory insert. They shouldn’t define their Inventory at the start of play. They’ll do that when they first Outfit for an expedition.
+- **How much damage do weapons do?** Damage is based on the playbook, not on the weapon. The Heavy deals 1d10 damage and the Lightbearer deals 1d4, regardless of whether they use a dagger or a maul. Some weapons of war deal “+1 damage,” but that’s an exception.  
+No, they don’t add their STR or DEX to their damage rolls.
+- **What do the various tags mean?** _Hand_, _close_, _reach_, _near_, and _far_ describe a weapon or light source’s useful range. From closest to furthest, the ranges are _hand_ < _close_ < _reach_ < _near_ < _far_.  
+“Piercing” weapons ignore some of the target’s armor. A weapon with “_x_ piercing” has a piercing value equal to Stonetop’s Prosperity (+0 by default).  
+_Area_, _awkward_, _crude_, _cumbersome_, _dangerous_, _forceful_, _messy_, _thrown_, _warm_, etc. are fictional cues. They have no numeric effects, but they color the fiction—which is important!
+- **What does “roll + [STAT]” mean?** They’ll roll 2d6 and add the modifier they’ve assigned to that stat. If the total is a 10+, yay! If the total is 7-9, okay. If the total is 6-, uh-oh.
+- **What happens if I roll a 6 or less?** If a move doesn’t specify what happens on a 6-, then it means that the player marks XP and something bad happens. You (the GM) decide exactly what.
+- **What does “advantage” mean?** They roll an extra die and discard the lowest. Usually, that means rolling 3d6 and keeping the 2 best dice. If they have “disadvantage,” they roll an extra die and discard the highest (usually 3d6, keep the 2 worst). If they have advantage or disadvantage on a damage roll, they roll their damage die twice and keep the best/worst roll (and then add any bonus dice from moves).
+- **Should I fill in the back page, too?** Yes. They should complete the left column of their playbook’s back page, making choices or answering questions as they wish, within the content guidelines established by the group.
+
+If you’re using an adventure starter (see Adventure starters (link tk)), you might have specific instructions for certain playbooks.
 
 [back to index](#index)
