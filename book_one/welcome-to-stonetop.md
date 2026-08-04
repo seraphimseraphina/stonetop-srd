@@ -8,6 +8,15 @@ nav_order: 1
 # Welcome to Stonetop
 {: .no_toc }
 
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 Stonetop is a hearth fantasy role-playing game, set in an iron age that never was. It’s meant for 3-5 people to play over multiple sessions. Expect each session to last 3-5 hours.
 
 Decide which of you will be the game master, or GM for short. Everyone else is a player. Each player controls and portrays a player character (or PC), one of the heroes of the village of Stonetop. The GM controls and portrays the world around them.
@@ -26,14 +35,7 @@ Welcome to Stonetop, friend.
 
 Welcome home.
 
-<details close markdown="block">
-  <summary id="index">
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+[back to index](#index)
 
 ## Expectations
 
