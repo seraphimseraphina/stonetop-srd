@@ -7,6 +7,22 @@ url: https://seraphimseraphina.github.io/stonetop-srd/
 aux_links:
   Home: https://seraphimseraphina.github.io/stonetop-srd/
 
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 back_to_top: true
 back_to_top_text: "Back to top"
 
