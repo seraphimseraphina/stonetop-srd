@@ -137,7 +137,7 @@ There’s no empire, no kings or nobles—at least not around here. More “civi
 
 ### The Makers
 
-The Makers are long gone, but their ruins (many sized for giants) remain.
+The **Makers** are long gone, but their ruins (many sized for giants) remain.
 
 Stonetop is built on Maker-ruins: an ancient cistern, the crumbling Old Wall, some old foundations. The Ruined Tower is about a day from town. The Great Wood is littered with the Makers’ work, though much of it is overgrown.
 
@@ -165,17 +165,17 @@ As a player, you’ll pick a playbook for your character. Each represents a loca
 
 **The Heavy** isn’t just any violent individual, they’re our violent individual. A champion, yes, but a liability, too.
 
-The Judge settles disputes, keeps the chronicle, and stands as a divine bulwark against chaos. Insightful and tough, not necessarily persuasive.
+**The Judge** settles disputes, keeps the chronicle, and stands as a divine bulwark against chaos. Insightful and tough, not necessarily persuasive.
 
-The Lightbearer invokes divine power via flame and candle. A beacon of hope, charity, and mercy. No great warrior, but a fiery foe of the dark.
+**The Lightbearer** invokes divine power via flame and candle. A beacon of hope, charity, and mercy. No great warrior, but a fiery foe of the dark.
 
-The Marshal leads the militia and a crew of followers. Makes choices about who lives and who dies.
+**The Marshal** leads the militia and a crew of followers. Makes choices about who lives and who dies.
 
-The Ranger is at home in the wild. A resourceful guide and deadly hunter.
+**The Ranger** is at home in the wild. A resourceful guide and deadly hunter.
 
-The Seeker collects lost lore and power. Has potent artifacts that might well lead to their ruin.
+**The Seeker** collects lost lore and power. Has potent artifacts that might well lead to their ruin.
 
-The Would-be Hero is full of fear and anger, and in over their head, but they just might outshine us all.
+**The Would-be Hero** is full of fear and anger, and in over their head, but they just might outshine us all.
 
 ## Why play?
 
