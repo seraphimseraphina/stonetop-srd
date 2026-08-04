@@ -225,6 +225,8 @@ The Blessed
 - Were they public or secret? Festive or somber?
 - What do your duties as an initiate entail?
 
+* * *
+
 **Raised by Wolves**
 - Were you one of the Forest Folk? Stolen, lost, or abandoned? Something else?
 - Did you grow up in the Great Wood? On the Flats? Somewhere else?
