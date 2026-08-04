@@ -212,7 +212,7 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - Who else, if anyone, came with you?
 - How long ago was this? Decades? Years? Months? Days?
 
-The Blessed
+#### The Blessed
 
 **Initiate**
 - Who are your fellow initiates?
@@ -237,4 +237,25 @@ The Blessed
 - Do you hold some formal position as a
 servant of Danu?
 
+#### The Fox
+
+**The Natural**
+- What mundane craft, trade, or skill do you excel at, better than anyone?
+- What well-earned reputation do you have?
+- What lies get whispered behind your back?
+- What secret do you know? About whom?
+
+**A Life of Crime**
+- What criminal enterprise were you a part of? Who ran the show?
+- How did you get into that life?
+- How did you get out?
+- Who or what did you leave behind?
+- Who here knows about your past?
+
+**The Prodigal Returned**
+- Why did you leave? How long ago?
+- Where did you go first? Why?
+- Where were you the longest?
+- What brought you home? When?
+- What has changed most while you were away?
 [back to index](#index)
