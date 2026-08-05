@@ -420,4 +420,318 @@ servant of Danu?
 - Who in town does your companion adore?
 - Who in town does your companion terrify?
 
+
+* * *
+### **The Seeker**
+* * *
+
+**Patriot**
+- What grim event convinced you that Stonetop and the people you love are in danger?
+- Who else knows about your arcana and the powers you tamper with?
+- How did you learn so much of the Things Below, and your other area of expertise?
+
+* * *
+
+**Antiquarian**
+- How did you learn so much of the Makers, and your other area of expertise?
+- What do other scholars claim the Stone really is? What do you think, instead?
+- What convinced you that Stonetop holds the key to your greatest discoveries?
+- What is it you hope to find here? What is it that keeps you here?
+
+* * *
+
+**Witch Hunter**
+- What set you on the path of hunting evil?
+- What have you sacrificed, walking this path?
+- How did you come to be so well versed in your chosen subjects?
+- Why do you (still) call Stonetop home?
+
+* * *
+### **The Would-be Hero**
+* * *
+
+**Impetuous**
+- What was your first taste of danger and excitement?
+- What do you dream of becoming?
+- What hero of old do you idolize?
+- Who have you let down the most?
+
+* * *
+
+**Driven**
+- What happened to set you down this path?
+- When and where did this happen?
+- What was your life like before then?
+
+* * *
+
+**Destined**
+- What are the elements of your destiny?
+- How and when was your destiny (or what you know of it) revealed to you?
+- Is your destiny a curse? A blessing? Do you even believe in it?
+- Who knows about your destiny? How much? How much do they believe?
+
+### 2. Special Possessions
+
+The next step is to establish each character’s special possessions, and how they contribute to the village. During this round, you’re trying to figure out where the PCs fit into daily life.
+
+Almost everyone in Stonetop helps in the fields, at least during spring planting and fall harvest. Most of the crops (beans, potatoes, barley) get stored in the granary and doled out as needed. Folks keep their own homes, with gardens and small livestock.
+
+A dozen or so folks ply the Great Wood. There are only a few full-time craftsfolk: a publican, a potter, a tanner, a smith, and a midwife. Other crafts (carpentry, weaving, etc.) get done on the side, by whoever has the skills and the tools. Most trade is based on barter, debt, and honor.
+
+Have the players go around and share their special possessions and how they earn their keep. Most players will naturally tie their possessions into how they contribute to the village, but if they don’t, press them on it.
+
+Ask the questions below, plus whatever else you’re curious about. Take notes, and update the steading playbook as needed.
+
+**Smithy or tannery**
+- Are you the town’s smith/tanner, or their apprentice, or what?
+- How long have you been doing this? How’d you get started?
+
+**Tools (carpenter’s, husbandry, etc.)**
+- Do you earn your keep with these tools? Or is it something you do on the side?
+- Where did you get them? How did you learn to use them?
+
+**Apiary, aviary, chandlery, goat herd, glassworks, or herb garden**
+- How big is it? And where?
+- Is it yours? Yours to manage? Or what?
+- How long has it been in Stonetop?
+- What’s its importance to the village?
+
+**Distillery**
+- Are you the publican? Or related to them?
+- How long have you been doing this?
+- How good is your stuff? Whose is better?
+
+**Anything else**
+- How did you come to possess that? When?
+- What do others know/think about it?
+- What does it mean to you? To the town?
+
+Finally, **ask everyone**:
+- Can you read and write? If so, who taught you, and when?
+
+### 3. World building
+
+The next round has each player describe the specific choices they’ve made in the left column on the back of their playbook. Each playbook has a different set of prompts and questions.
+
+This step helps your group develop their specific version of the Stonetop world. The nature of the gods, the village’s history, and more might get established. As players reveal details about their characters and the setting, take more notes and ask more questions. Pay particular attention to any threats or tensions that they introduce. These will become very important soon!
+
+Here are some things to ask each character. You don’t have to ask them all, and you certainly aren’t limited to these.
+
+* * *
+### **The Blessed**
+* * *
+
+Sacred Pouch
+- How did you get your sacred pouch? What’s it made from, and how is it adorned?
+
+**The Earth Mother**
+- Is Danu generally worshipped, avoided, petitioned, or appeased?
+- Why do the villagers leave the offerings that they do? Why are these things sacred to Danu? What do they symbolize?
+- How is Danu’s worship different among other peoples? Do her chosen (like you) recognize any sort of fellowship?
+
+* * *
+### **The Fox**
+* * *
+
+**Tall Tales**
+- Where did this happen? When? Who was with you? How exactly did you ___?
+- Sure, that’s what you tell everyone, but what really happened?
+
+* * *
+### **The Heavy**
+* * *
+
+**A History of Violence**
+- For each of the things that everyone talks about: When did this happen? Where were you? What prompted it? Who was with you? How exactly did you ___?
+- For each thing that folks are less keen to discuss: What’s the story, there? Who, what, where, and when?
+- For the things keeping them up at night: Who else have you shared this with? Who are you keeping it from?
+  
+* * *
+### **The Judge**
+* * *
+
+**The Chronicle**
+- How was the Chronicle built/discovered?
+- Who is welcome in the Chronicle?
+- Why is the Chronicle located where it is?
+- If the Chronicle is haunted: Whose spirit(s) do you think they are? How often do they appear?
+- If the Chronicle contains dangerous artifacts: What do they look like? How do you know they’re dangerous? Who else knows about them? How did they get there?
+
+**The Lawkeeper**
+- How many true disciples of Aratis are present in Stonetop? Just a handful? A sizeable minority? A majority?
+- How do Aratis’s true disciples feel about the reverence of other gods?
+- What was the most recent dispute you’ve been called on to settle? How did you rule?
+  
+* * *
+### **The Lightbearer**
+* * *
+
+**Praise the Day**
+Ask them about any apparent contradictions. For example, if the worship of Helior is widely persecuted but his shrine in Stonetop is given the place of highest honor... how do they explain that?
+- Why does Helior’s proper worship consist of the things that it does? Why do those things please him so?
+- Do Helior’s worshippers abroad recognize you as the appointed servant that you are?
+- What was the previous Lightbearer called? When did they live and die?
+- Were there other Lightbearers before them?
+- Which invocations do you know?
+
+* * *
+### **The Marshal**
+* * *
+
+**War Stories**
+Ask for details. Drill down on their answers to fill in any gaps in your sense of what happened.
+- Would you call it a victory, a defeat, or a draw?
+- What part did your crew play? What part did you play?
+- How do you think it would it have gone, had you not been there?
+- What are your crew’s tags, instinct, and cost? Who are these people? (No need to name each one just yet, but who are they in general or as a group?)
+
+* * *
+### **The Ranger**
+* * *
+
+**Something Wicked This Way Comes**
+Ask for details, but leave some questions unanswered. The threat should feel mysterious, at least at the outset.
+- Where exactly did this happen? When?
+- Why do you think that?
+
+* * *
+### **The Seeker**
+* * *
+
+**Collection**
+Ask about their major arcana, the minor arcana they have unlocked, and the minor arcana they have not yet mastered:
+- How long have you had it/known about it?
+- Who else knows about it?
+- Where is it/where do you keep it?
+- When did you (start to) unlock its secrets?
+- What do you hope to accomplish with it?
+
+* * *
+### **The Would-be Hero**
+* * *
+
+**Fear & Anger**
+- From whence does this fear come?
+- When did you first experience it?
+- What is the source of your anger? Why does ___ fill you with righteous fury?
+
+### 4 & 5. NPC connections
+
+The next step creates more connections between the PCs and NPCs in the village. Go around and on each player’s turn, have them pick any one question from step 4, answering it with the name of one or more NPCs who live in Stonetop.
+
+Ask follow-up questions as they occur to you (like, “Owena is your wife—do you have any kids?” or, “You’re secretly watching over Gerlt? Why?”) Encourage the players to ask each other questions as well. 
+
+Players can invent new NPCs or reuse NPCs previously established. If they introduce a new NPC, suggest that they pick a name from the unused choices on their playbook.
+
+Add new NPCs to the appropriate sections of the Stonetop steading playbook. Assign each one an occupation and a trait. (Alternately, just take notes for now and add them to the playbook later.)
+
+Once everyone has gone once, repeat the process. This time, though, the players can pass instead of answering another question. Keep going until everyone has passed.
+
+Before you move on to step 6, **ask each PC the following** (unless the answers are already clear):
+- Are you married? Single? Betrothed? Widowed? Any kids?
+- Are your parents still alive?
+
+### 6 & 7. PC connections
+
+In step 6, the players start to flesh out the relationships between their PCs.
+
+The first player picks a question from step 6, and asks it aloud to the other players. Anyone can answer “me,” and the asking player writes their name down in the space provided. Then, the next player goes, and the next. Repeat until everyone has gone.
+
+If no one bites on a particular question, talk it through. Encourage the others to really consider it, but don’t force someone to say “me.” If no one bites, have the player ask a different question.
+
+As always, ask follow-up questions to flesh out the details. “So, Ari, you’ve been with Vahid the entire way, huh? You met back in Lygos, then. What brought you together?”
+
+When everyone has gone once, repeat the process, with each player asking another question or passing. When everyone has passed, move on.
+
+{: .note-title }
+> Only two players?
+>
+> If you have only two players, the questions in step 6 (“Which one of you...?”) won’t work as written. Here’s an alternative.
+> On each player’s turn, have them pick two questions from their list and pose them to the other PC as an either/or, rephrasing as needed. For example, the Blessed might ask “Do you doubt the power of Danu, or have you participated in a sacred rite with me?” The other player then chooses. Have them go back and forth like this, as many times as they want.
+
+### 8. Homes
+
+Finally, on the first page of the Stonetop steading playbook, add a point of interest for each PC’s home. Ask questions, such as...
+- Who do you live with? Family? By yourself? Do any of you live together?
+- Why is your home there, as opposed to somewhere else?
+- Where do your parents/grandparents/ siblings/etc. live? Where is the smith/tannery/Chronicle/aviary/chandlery/etc.?
+
+Also, add any new points of interest to the appropriate maps. For example, if the Seeker knows the location of some creepy carvings in a limestone cave, in the cliff face a few miles north of town, then add it to the Vicinity map.
+
+Once you’ve updated the maps, it’s time to **let spring burst forth**.
+
+[back to index](#index)
+
+## Let spring burst forth
+
+Ask the players to decide whose character is the most hopeful. Refer them to the Seasons Change move on the Moves & Gear handout (on the third page, under “Homefront Moves”). Tell them that spring has just broken forth upon the land, and ask them to roll +Fortunes (+1, in this case).
+
+**On a 10+**, ask them to choose one of these:
+- Interesting news
+- Valuable insight
+- Trade opportunity
+
+You’re looking for a plot hook, something to kick off the first adventure. The other choices (like Tor’s blessing or unexpected bounty) don’t provide such a hook.
+
+**On a 7-9**, have them choose whatever gain they like. You’ll combine that with a threat to create your starting situation.
+
+**On a 6-**, chuckle grimly and start thinking about threats.
+
+Make a note of the result, and update the steading playbook if needed. Then start to wrap up. It’ll be tempting to jump into character and start playing right away, but don’t do it. You need to time to think about everything the players have given you and prepare the first adventure.
+
+Before you go, ask the players:
+- What excites you the most about playing your character?
+
+Whatever they tell you, write it down. Try to work it into the first adventure.
+
+[back to index](#index)
+
+## After the session
+
+You’ve got a pile of NPCs, relationships, events, and details. Now you need to turn them into something coherent and useful for both you and your players. You also need to plan the first adventure.
+
+### Organize your notes
+
+Take some time to update the Residents of Stonetop and the Notable neighbors on the steading playbook. Include each NPC who was established, with their occupation, connection(s) to the PCs or other NPCs, and perhaps a notable trait. (You can leave the trait off for now, and ask the players about them in play.)
+
+Space on the steading playbook is limited and the playbook can be hard to update in play. Also, you might have notes about NPCs that you don’t want the players to see. Consider recording your NPCs on a spreadsheet or other electronic document.
+
+If you’re a visual thinker, **consider making a relationship map**. Each “node” on the map represents a character (PC or NPC). Cluster characters together by location (Stonetop residents here, Hillfolk there) and further cluster them by affiliation (the Initiates of Danu, the Marshal’s crew, etc.). Draw lines between characters and groups, with a note describing the relationship (like “mother/daughter,” “budding romance,” or “watching closely”). A relationship map helps you and your players “see” the social landscape of the game, but it requires a lot of work to create and maintain.
+
+**Create a timeline**, arranging the events that your players established from oldest to most recent.
+
+**As you organize your notes, you’ll find contradictions** like “Vahid got here last year, but Blodwen was initiated two years ago—he couldn’t have participated in the initiation rites!” Either ask the players about them (before or at the start of the next session) or just make a decision about how to correct the contradiction if you think it’s a low-impact change.
+
+Flip through _Book II_ and look for **potential connections** to the PCs and the details you all established during introductions. For example, if Rhianna’s predecessor died five years ago fighting bandits, then maybe those bandits were Brennan and his Claws, who now run the Marshedge Guard. If you’re okay with just deciding that such a connection is true, add it to your NPC notes and/or timeline. If you think it might be true, but aren’t sure, then add it to your “I wonder...” list.
+
+**Share your updated list of NPCs and your timeline with the players.** Ask them to review it before the next session, to help get everyone on the same page. Point out any lingering questions for them to answer, and any changes that you’ve made. Ask for feedback, and incorporate it as appropriate.
+
+### Identify threats
+
+Look over your notes again and identify the sources of trouble or ongoing problems for the PCs or the village. **Write these up as threats** (link tk), to whatever level of detail makes sense right now.
+
+If your notes imply a threat, but the threat’s nature isn’t entirely clear, add it to your “I wonder...” list.
+
+### "I wonder..."
+
+Keep a running list of open questions—things that you wonder about, but either...
+
+... you don’t know how to answer yet, or
+... you want to leave unanswered for now and see it get answered through play.
+
+“I wonder... what did happen to the Forest Folk? What was that thing Vahid faced when he got the Mindgem? What exactly is making the crinwin so bold?”
+
+Refer to these questions **as you prepare adventures**. Use the list to help identify the adventure’s central opportunity or threat, or to help write the setup questions that you’ll ask the characters.
+
+Refer to this list **during your sessions**, when you need something interesting to say. Can you say something that answers one of these questions? Or that hints at the answer? Can you turn one of these questions back on the characters, and ask them to give you the answers?
+
+**Update these questions between sessions.** If a question has been answered, remove it. If a new question occurs to you, add it to the list.
+
+### Plan the first adventure
+
+Look at your notes, your threats, your “I wonder...” list, and the results of that first Seasons Change roll, and use them to prepare your first adventure. See (link tk) for guidance.
+
+If you haven’t already done so, read the rest of this book before the next session.
+
 [back to index](#index)
