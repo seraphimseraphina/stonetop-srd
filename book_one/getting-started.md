@@ -242,9 +242,7 @@ It’s okay to leave blanks! If someone isn’t sure about a detail, or doesn’
 - Do you have a mentor? Or are you self-taught, going by instinct and insight?
 - Do you hold some formal position as a
 servant of Danu?
-  
-  
-  
+
 * * *
 ### **The Fox**
 * * *
@@ -272,9 +270,7 @@ servant of Danu?
 - Where were you the longest?
 - What brought you home? When?
 - What has changed most while you were away?
-  
-  
-  
+
 * * *
 ### **The Heavy**
 * * *
@@ -301,8 +297,6 @@ servant of Danu?
 - Are they a symbol of your strength, speed, and courage? Or the source?
 - Are the marks a blessing? Or a curse?
 - How do folks in Stonetop generally treat you?
-  
-  
   
 * * *
 ### **The Judge**
@@ -336,4 +330,94 @@ servant of Danu?
 - How did Aratis call you to her service?
 - What is the symbol of your authority (hammer, shield, or helm)? Where and how did you acquire it?
 - How did you establish yourself as Stonetop’s Judge?
+  
+* * *
+### **The Lightbearer**
+* * *
+
+**Auspicious Birth**
+- How was your birth marked by Helior?
+- How did your connection to Helior shape your youth?
+- Do you hold some formal position as a servant of Helior?
+- Who in town resents you, or at least what you represent?
+- Who in town is your most devoted disciple?
+
+* * *
+
+**Itinerant Mystic**
+- What is it that keeps drawing you back to Stonetop?
+- Where else do you regularly travel to?
+- How long have you lived this wandering lifestyle?
+- Why is it that some folk from Stonetop are always so happy to see you?
+- Why is it that some folk from Stonetop can’t wait to see you go?
+
+* * *
+
+**Soul on Fire**
+
+- What sort of vice or iniquity once ruled your life?
+- What brought you so low, only to find succor in Helior’s light?
+- Do you hold some formal position as a servant of Helior?
+- How have the people of Stonetop responded to your preaching?
+
+* * *
+### **The Marshal**
+* * *
+
+**Scion**
+- Who ran the militia before you?
+- When did you take charge?
+- Did anyone else want your position?
+- What is the nature of your crew? Why are they so respected?
+- How do you recruit or initiate members?
+
+* * *
+
+**Penitent**
+- Where did you and your crew operate, before? What kind of bloody business did you all get up to?
+- What caused you to set that life aside?
+- Did any of your old crew refuse to join you? Last you heard, what are they up to?
+- Who spoke on your behalf when you first arrived? Who still doesn’t trust you?
+- Did you take over Stonetop’s militia from someone else? How’d that go?
+- How well has your crew integrated into Stonetop?
+
+* * *
+
+**Luminary**
+- Are you touched by the gods? Does ancient blood flow in your veins? Or are you just the one who stepped up when needed?
+- When and how did it become clear that you were a natural leader?
+- When did you take charge of the militia?
+- Who, if anyone, ran the militia before you?
+- What is the nature of your crew?
+- How do you recruit or initiate members?
+
+* * *
+### **The Ranger**
+* * *
+
+**Mighty Hunter**
+- How long have you plied the Wood? Who first taught you their ways?
+- Did you ever meet the Forest Folk, before they disappeared? Where do you think they went?
+- What deed are you most renowned for?
+
+* * *
+
+**Wide Wanderer**
+- What drives you to wander, when others stay safely at home?
+- Why do you call Stonetop home? Why do you always return here?
+- Of the folks you added to the list of neighbors (Tirny, Eser, etc.)...  
+...which one wants you dead?  
+...which one is always glad to see you?  
+...which one owes you a life debt?  
+- What’s one place you’ve always wanted to visit, but have never been?
+
+* * *
+
+**Beast-bonded**
+- What type of beast is your companion? What’s its name? Tell us about it!
+- How long ago did you bond with your companion, and how did it happen?
+- What special power do you have with your animal companion?
+- Who in town does your companion adore?
+- Who in town does your companion terrify?
+
 [back to index](#index)
