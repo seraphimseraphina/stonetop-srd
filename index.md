@@ -10,4 +10,4 @@ Stonetop is a “hearth fantasy” tabletop RPG set in an Iron Age that never wa
 
 The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/seraphimseraphina/cairn).
 
-This SRD is being developed by Seraphina Garcia Ramirez. You can reach me on [Bluesky](https://bsky.app/profile/seraphimseraphina.bsky.social) or follow [my blog](https://seraphim-seraphina.itch.io/my-blog) on itch.
+This SRD is being developed by Seraphina Garcia Ramirez, relying on the Stonetop discord community, the Just The Docs theme, and particularly Yochai Gal's [Cairn](https://cairnrpg.com/) site as a worked example of implementing that theme which directly inspired this project. You can reach me on [Bluesky](https://bsky.app/profile/seraphimseraphina.bsky.social) or follow [my blog](https://seraphim-seraphina.itch.io/my-blog) on itch.
